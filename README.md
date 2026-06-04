@@ -1,2 +1,2 @@
 # Gluttonous-Snake
-a Gluttonous Snake game I guess
+a Gluttonous-Snake I guess
